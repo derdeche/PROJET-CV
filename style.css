@@ -7,7 +7,7 @@
 
 h1
 {
-    padding: 35px;
+    padding: 25px;
     text-align: center;
     font-size: 50px;
 }
@@ -20,7 +20,7 @@ h2
 header
 {
     text-align: center ;
-    padding: 80px;
+    padding: 20px;
     background-color: dodgerblue;  
     color: white; 
 }
@@ -31,4 +31,22 @@ header
 {
     border-radius: 10px;    
     width: 30px;         
+}
+
+.footer img
+{
+    border-radius: 10px;    
+    width: 15px;
+       
+
+}
+
+.footer
+{
+    text-align: center ;
+    padding: 20px;
+    background-color: rgb(30, 255, 240);  
+    color:black;
+
+
 }
