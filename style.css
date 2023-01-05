@@ -47,6 +47,22 @@ header
     padding: 20px;
     background-color: rgb(30, 255, 240);  
     color:black;
+}
 
+.left
+{
+    display: flex;
+    text-align: left;
+    
+}
 
+.right
+{
+    display: flex;
+    text-align: right;
+}
+
+.center
+{
+    display: flex;
 }
